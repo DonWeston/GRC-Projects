@@ -1,0 +1,104 @@
+# Risk Management Policy
+
+**Version:** 1.0  
+**Owner:** Enterprise Risk & Compliance Office  
+**Approved By:** Chief Risk Officer (CRO)  
+**Date:** July 22, 2025  
+**Review Date:** July 22, 2026
+
+---
+
+## 1. Purpose
+
+This policy establishes a clear and repeatable process to identify, assess, prioritize, and manage risks that may impact business operations, financial stability, technology systems, data security, reputation, and compliance obligations.
+
+---
+
+## 2. Scope
+
+This policy applies to all business units, departments, subsidiaries, contractors, and third-party vendors who interact with the company’s systems, infrastructure, data, and physical or digital operations.
+
+---
+
+## 3. Policy Overview
+
+### 3.1 What Is Risk?
+
+A **risk** is anything that could go wrong and hurt the company — including cyberattacks, outages, financial fraud, regulatory fines, or even a vendor failure.
+
+---
+
+## 4. Risk Management Steps
+
+### Step 1: Identify Risks  
+- Teams must identify possible risks during operations, projects, or strategic planning.
+- Common sources: cyber threats, legal non-compliance, third-party risks, business disruptions.
+
+### Step 2: Assess Risks  
+- Evaluate how **likely** the risk is to happen and how **serious** the impact would be.
+- Use this scale:  
+  - Likelihood: Rare / Possible / Likely / Certain  
+  - Impact: Low / Medium / High / Critical
+
+### Step 3: Prioritize Risks  
+- Focus on risks with **High Likelihood + High Impact** first.
+- These become **Top Risks** requiring immediate action.
+
+### Step 4: Mitigate or Accept  
+Each risk should be addressed by:
+- **Mitigating** (adding controls to reduce)
+- **Transferring** (buying insurance, outsourcing)
+- **Avoiding** (not proceeding with risky activity)
+- **Accepting** (formally acknowledging low-priority risks)
+
+### Step 5: Monitor & Review  
+- Every department must regularly review their risks and report changes quarterly.
+- The Enterprise Risk team audits risk registers and updates dashboards for leadership.
+
+---
+
+## 5. Risk Register Requirements
+
+Each business unit must maintain a **Risk Register** that includes:
+- Risk name and description
+- Business area affected
+- Likelihood/Impact rating
+- Owner (person responsible)
+- Chosen risk response
+- Review date
+
+The Enterprise Risk team maintains the master company-wide Risk Register.
+
+---
+
+## 6. Roles and Responsibilities
+
+| Role | Responsibility |
+|------|----------------|
+| **CRO** | Owns this policy and ensures risk processes are followed |
+| **Enterprise Risk Team** | Coordinates company-wide risk assessments |
+| **Department Heads** | Maintain local risk registers and report updates |
+| **All Employees** | Report suspicious activity or process weaknesses |
+
+---
+
+## 7. Enforcement
+
+Failure to comply with this policy may result in disciplinary action, contract termination, or legal consequences, depending on severity.
+
+---
+
+## 8. References
+
+- NIST SP 800-30: Risk Assessment Guide
+- ISO 27005: Risk Management Standard
+- COSO Enterprise Risk Management Framework
+- SOX, HIPAA, GDPR (as applicable by region or sector)
+
+---
+
+## 9. Revision History
+
+| Version | Date | Change Description |
+|---------|------|--------------------|
+| 1.0     | 2025-07-22 | Initial policy for enterprise-wide adoption |
